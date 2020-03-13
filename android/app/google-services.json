@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "937172140663",
+    "firebase_url": "https://mlaundry-2f1b6.firebaseio.com",
+    "project_id": "mlaundry-2f1b6",
+    "storage_bucket": "mlaundry-2f1b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:937172140663:android:ebcf6fac590e064c733c72",
+        "android_client_info": {
+          "package_name": "ologunb.com.flutter_app77"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "937172140663-84cr6mh5o0vdstqse5nmr86cpuh7kgeo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ologunb.com.flutter_app77",
+            "certificate_hash": "ffc2762c7311148ccb376fd7f5b85f738f3082cf"
+          }
+        },
+        {
+          "client_id": "937172140663-6tffm1dpls85ij81ijhi159am8f4bd19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI97PslR92IZIwqH8X7ifJDjYZhUkU5nI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "937172140663-6tffm1dpls85ij81ijhi159am8f4bd19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
